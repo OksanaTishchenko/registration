@@ -1,0 +1,1 @@
+let firstNameInput=document.querySelector(".input-first-name");console.log(firstNameInput.value);const firstNameChange=()=>{console.log("change input")};firstNameInput.addEventListener("onсhange",firstNameChange);
